@@ -1,4 +1,4 @@
-#Sorting Mastery: A Strategy Design Pattern Showcase
+# Sorting Mastery: A Strategy Design Pattern Showcase
 
 ![Sorting Mastery Logo](logo.jpg "A logo for Sorting Mastery project")
 
